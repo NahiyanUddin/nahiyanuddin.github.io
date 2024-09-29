@@ -1,0 +1,27 @@
+Hi! I am Md Nahiyan Uddin. I have received my B.Sc.Engg. in Computer Science and Engineering from
+          <a href="https://www.buet.ac.bd/" target="_blank">Bangladesh University of Engineering and Technology
+            (BUET)</a>
+          and am currently working as a Lecturer
+          (<a href="https://cse.uap-bd.edu/faculty/faculty_details/10">my profile</a>)
+          at the
+          <a href="https://www.uap-bd.edu/">University of Asia Pacific</a>.
+          I am also conducting my research work under Professor
+          <a href="https://sites.google.com/site/abmalimalislam/home" target="_blank">Dr. A. B. M. Alim Al Islam</a>
+          and Professor <a href="https://sites.google.com/site/mahmudanaznin" target="_blank">Dr. Mahmuda Naznin</a> from BUET.
+          Currently, I am doing two research works on Rohingya Refugees in Cox's Bazar, Bangladesh, and one of them is a collaborative work with
+          the
+          Department of Software Systems & Cybersecurity, Monash University, Australia.
+          I completed my undergraduate thesis under the supervision of Professor
+          <a href="https://sites.google.com/site/abmalimalislam/home" target="_blank">Dr. A. B. M. Alim Al Islam</a>
+          on applying machine learning on brainwaves collected from EEG sensors. My research interests include
+          artificial intelligence,
+          machine learning and it's applications,
+          wearable and implantable systems,
+          IoT,
+          Human-Computer Interaction,
+          Data Mining,
+          Computer Vision,
+          Natural Language Processing, and
+          Robotics.
+          I love to explore different algorithms of Machine Learning and apply my knowledge to find optimal
+          solutions of state of the art problems.
